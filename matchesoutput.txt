@@ -1,0 +1,23 @@
+Match Schedule:
+Day1
+Team 1 vs Team 4
+Team 2 vs Team 3
+
+Day2
+Team 1 vs Team 2
+Team 3 vs Team 4
+
+Day3
+Team 1 vs Team 3
+Team 4 vs Team 2
+
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+
+
+
+
+
